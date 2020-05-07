@@ -1,0 +1,249 @@
+/* body {
+    margin: 0px;
+}
+.navbar {
+    background-color: #316dc3;
+    height: 40px;
+   
+}
+ul {
+    list-style: none;
+    display: inline;
+    margin-top: 5px;
+}
+.text {
+    color: white;
+} */
+/* li {
+    display: inline;
+    padding: 10px;
+}
+.button {
+   padding-right: 0px;
+   padding-left: 30px;
+   float: right;
+   size: 5px;
+}
+.navbar1 {
+    height:70px;
+    background-color: #f5f5f5;
+}
+.container1 { */
+    /* margin-left: 5px; */
+    /* margin-right: 15px;
+    margin-left: 70px;
+}
+.logo {
+    vertical-align: middle;
+    margin-top: 7px;
+    padding-left: 0px;
+}
+.nav-item {
+    float: right;
+}
+.container-bar { */
+    /* margin-left: 10px;
+    margin-right: 10px; */
+    /* margin-top: 30px;
+} */
+
+@import url("https://fonts.googleapis.com/css?family=Titillium+Web");
+* {
+  font-family: "Titillium Web", sans-serif;
+}
+body {
+  height: 2000px;
+}
+.navbar .navbar-brand {
+  font-size: 30px;
+}
+.navbar .nav-item {
+  padding: 5px 10px;
+}
+.navbar .nav-link {
+  /* font-size: 20px; */
+  margin-left: 10px;
+}
+.fa-bars {
+  color: #007bff;
+  font-size: 30px;
+}
+.nav-social{
+    float: left;
+    list-style: none;
+    padding: 10px;
+}
+.widget-no-border-m-0{
+    padding-left: 100px;
+}
+.button{
+    border: 1px solid green;
+    color: green;
+    background-color: #f5f5f5;
+}
+.nav-button{
+    float: right;
+    /* margin: 10px; */
+    margin-right: 5px;
+}
+.nav {
+    background-color: #007bff;
+}
+/* p {
+    color: white;
+} */
+.navbar1 {
+    background-color: #f8f8f8!important;
+    padding-top: 0px;
+    height: 80px;
+    position: -webkit-sticky;
+    padding-right: 0px;
+    width: 100%;
+}
+.logo{
+    padding-left: 60px;
+}
+.rowbar {
+    padding-left: 106px;
+}
+body {
+    background-color:  #f8f8f8!important;
+    font-family: 'Open Sans', sans-serif;
+} 
+.title-icon {
+    /* padding-left: 430px!important;
+    padding-right: 400px!important; */
+    text-align: center!important;
+    
+}
+.wow-text {
+    text-align: justify;
+    padding-left: 200px!important;
+    padding-right: 170px!important;
+}
+.text-para {
+    text-align: center;
+}
+.top-row{
+    margin-right: 0px!important;
+    margin-left: 0px!important;
+}
+.cat ul li a:hover {
+    background-color: #007bff;
+    color: white;
+    border-radius: 16px;
+}
+.nav-link {
+    text-decoration: none;
+    color: black;
+}
+.corner {
+    background-color: #007bff;
+}
+.pt-80 {
+    padding-top: 80px !important;
+    
+}
+.pb-80 {
+    padding-bottom: 80px !important;
+}
+.rowbar1 {
+    padding-top: 40px;
+    padding-left: 106px;
+}
+.title-icon1 {
+    text-align: center!important;
+}
+.pt-20 {
+    padding-top: 20px!important;
+}
+/* .mt-20 {
+    margin-top: 20px!important; */
+/* } */
+.pb-20 {
+    padding-bottom: 20px!important;
+}
+.box {
+    padding-bottom: 30px!important;
+}
+.p-30 {
+    padding: 30px!important;
+}
+* {
+    font-family: "Titillium Web", sans-serif;;
+}
+.pb-30 {
+    padding-bottom: 30px!important;
+}
+.mb-40 {
+    margin-bottom: 40px!important;
+}
+.box-shadow11 {
+    box-shadow: 0px 8px 20px 0px rgba(0, 0, 0, 0.16);;
+}
+.mission {
+    background-color: white;
+}
+.pt-50 {
+    padding-top: 50px!important;
+}
+.pt-30 {
+    padding-top: 30px!important;
+}
+.bg-silver-light {
+    background-color: #f7f8fa;
+}
+.pt-20 {
+    padding-top: 20px!important;
+}
+.p-20 {
+    padding-left: 20px!important;
+}
+.mt-20 {
+    margin-top: 20px!important;
+}
+.pt-0 {
+    padding-top: 0px!important;
+}
+.pb-0 {
+    padding-top: 0px!important;
+}
+.pl-10 {
+    padding-left: 10px!important;
+}
+.pr-10 {
+    padding-right: 10px!important;
+}
+.footer li {
+    display: inline;
+    padding-left: -5px!important;
+}
+.pt-70 {
+    padding-top: 70px!important;
+}
+.pb-40 {
+    padding-bottom: 40px!important;
+}
+.pl-0 {
+    padding-left: 0px!important;
+}
+.mb-0 {
+    margin-bottom: 0px!important;
+}
+.pt-15 {
+    padding-top: 15px!important;
+}
+.mission  {
+    font-family: 'Merriweather', serif;
+    font-weight: 600;
+}
+.like {
+    padding-left: 25px!important;
+}
+.mt-7 {
+    margin-top: 7px!important;
+}
+.gallery-isotope .gallery-item .thumb {
+    position: relative;
+    overflow: hidden;
+}
